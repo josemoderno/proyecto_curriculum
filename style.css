@@ -31,7 +31,9 @@ a:link, a:active, a:visited {
 
 body {
   width: 100%;
-  background-color: #ae9f9f;
+  background-image: url(./imagenes/layered-waves-haikei.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 main {
